@@ -1,0 +1,4 @@
+package kotlintest
+
+class MyCommonType {
+}
